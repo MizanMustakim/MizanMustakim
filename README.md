@@ -10,7 +10,7 @@ This is **MD MIZANUR RAHMAN MUSTAKIM**, welcome to my work hub.
 
 Here are some ideas to get you started:-->
 
-- :bulb: I'm a Bachelor of *Computer Science and Technology* student in my last year at **Beijing Institute of Technology (BIT) in Beijing, China.**
+- :bulb: Graduate of *Computer Science and Technology* from **Beijing Institute of Technology (BIT) in Beijing, China.**
 
 - 🔭 I’m an enthusiast of Data Science. I'm currently working on *Machine Learning* and *Deep Learning*. :100:
 
