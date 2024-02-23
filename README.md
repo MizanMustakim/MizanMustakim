@@ -16,7 +16,7 @@ Here are some ideas to get you started:-->
 
 - 👯 I’m looking to collaborate on any Data Science related project.
 
-- 📫 How to reach me: mustakim.mizan@gmail.com or 1820192037@bit.edu.cn 
+- 📫 How to reach me: mustakim.mizan@gmail.com or mustakim.mizan@bit.edu.cn 
 
 You can also find me on [LinkedIn](https://www.linkedin.com/in/md-mizanur-rahman-mustakim/)
 
@@ -39,7 +39,7 @@ You can also find me on [LinkedIn](https://www.linkedin.com/in/md-mizanur-rahman
 | Sign Language MNIST | https://github.com/MizanMustakim/sign_language_mnist |
 -------------------------------------------------------------------------------------------------
 
-**Happy Coding!** :v::v::v:
+**Happy Coding!** ❤❤❤
 
 
 <!-- 🌱 I’m currently learning ...
@@ -53,6 +53,3 @@ You can also find me on [LinkedIn](https://www.linkedin.com/in/md-mizanur-rahman
 - 😄 Pronouns: ...
 
 - ⚡ Fun fact: ... -->
-
-
-
