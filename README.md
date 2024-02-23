@@ -25,6 +25,8 @@ You can also find me on [LinkedIn](https://www.linkedin.com/in/md-mizanur-rahman
 -----------------------------------------------------------------------------------------------
 | Work Name | Link |
 | --------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| Shanghai Global AI Innovation Competition (Gold Award)| [Bone Age Prediction](https://github.com/MizanMustakim/BoneAgePrediction) |
+| Shanghai Global AI Innovation Competition (Silver Award)| [Hallucination Detection of ChatGPT using LLM](https://github.com/MizanMustakim/hallucinationDetection) |
 | Undergraduate Thesis Work | [Road Damage Detection Based on Deep Learning](https://www.researchgate.net/publication/372769154_Road_Damage_Detection_Based_on_Deep_Learning) |
 | Robi Datathon 2.0: Pre Assessment | https://github.com/MizanMustakim/robi_Datathon2.0_pre-assesment |
 | Date Fruit Classification | https://github.com/MizanMustakim/DataScienceProject_6thSemesterBIT |
