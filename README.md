@@ -25,6 +25,7 @@ You can also find me on [LinkedIn](https://www.linkedin.com/in/md-mizanur-rahman
 -----------------------------------------------------------------------------------------------
 | Work Name | Link |
 | --------------------------------------- | ---------------------------------------------------------------------------------------------- |
+|Precision Dental Imaging: 2D Teeth Segmentation and Localisation utilising Deep Learning|[Postgraduation Thesis (Waiting for blind review from school)](https://github.com/MizanMustakim/DE-KAN)|
 | Shanghai Global AI Innovation Competition (Gold Award)| [Bone Age Prediction](https://github.com/MizanMustakim/BoneAgePrediction) |
 | Shanghai Global AI Innovation Competition (Silver Award)| [Hallucination Detection of ChatGPT using LLM](https://github.com/MizanMustakim/hallucinationDetection) |
 | Undergraduate Thesis Work | [Road Damage Detection Based on Deep Learning](https://github.com/MizanMustakim/thesis_work) |
