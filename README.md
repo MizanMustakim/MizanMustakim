@@ -10,13 +10,13 @@ This is **MD MIZANUR RAHMAN MUSTAKIM**, welcome to my work hub.
 
 Here are some ideas to get you started:-->
 
-- :bulb: MSc(enrolled), BSc in *Computer Science and Technology* at **Beijing Institute of Technology (BIT), Beijing, China.**
+- :bulb: MSc, BSc in *Computer Science and Technology* at **Beijing Institute of Technology (BIT), Beijing, China.**
 
 - 🔭 I’m an enthusiast of Artificial Intelligence. I'm currently working on Medical AI. :100:
 
 - 👯 Welcome to collaborate any AI related project (computer vision, natural language processing).
 
-- 📫 How to reach me: mustakim.mizan@gmail.com or mustakim.mizan@bit.edu.cn 
+- 📫 How to reach me: mustakim.mizan@gmail.com
 
 You can also find me on [LinkedIn](https://www.linkedin.com/in/md-mizanur-rahman-mustakim/)
 
